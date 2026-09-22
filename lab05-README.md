@@ -4,6 +4,7 @@
 **Tools:** RBAC · Azure Policy · Cost Management · NIST Cybersecurity Framework
 
 ---
+**LOOM Video Link:** https://www.loom.com/share/76b9895de1a349f2a40f8f2ccd74b8a5
 
 ## 📌 Overview
 
